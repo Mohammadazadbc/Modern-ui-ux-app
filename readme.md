@@ -1,1 +1,1 @@
-[Moder Ui/UX](https://modern-ui-ux-app.netlify.app/)
+[Modern UI/UX](https://modern-ui-ux-app.netlify.app/)
